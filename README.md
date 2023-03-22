@@ -9,6 +9,7 @@
     * [Usando o RARS](#usando-o-rars)
     * [Controles e Como Jogar](#controles-e-como-jogar)
 * [Funcionalidades](#funcionalidades)
+* [Showcase](#showcase)
 * [Créditos](#créditos)
 
 
@@ -56,11 +57,14 @@ Helltaker” em uma busca para realizar seu sonho de construir um harém demoní
 
 O jogo possui 5 fases e cada uma delas apresenta um desafio diferente. O jogador deve ser capaz de manipular a fase a seu favor para conseguir remover ou desviar de obstáculos (blocos de pedra e espinhos), evitar ou eliminar inimigos (esqueletos) e encontrar chaves para destrancar portas para conseguir encontrar o caminho certo antes que seus movimentos acabem. Por fim, cada demônio tem uma personalidade diferente, sendo assim o jogador deverá responder cada uma de maneira apropriada para ter a chance de conquista-las.
 
+## Showcase
+
 ### Fase 1
 
 <p align="center">
     <img alt="Gif com gameplay da fase 1" src="./readme_assets/helltaker_fase_1.gif" >
 </p>
+
 
 ### Fase 2
 
@@ -68,17 +72,20 @@ O jogo possui 5 fases e cada uma delas apresenta um desafio diferente. O jogador
     <img alt="Gif com gameplay da fase 2" src="./readme_assets/helltaker_fase_2.gif" >
 </p>
 
+
 ### Fase 3
 
 <p align="center">
     <img alt="Gif com gameplay da fase 3" src="./readme_assets/helltaker_fase_3.gif" >
 </p>
 
+
 ### Fase 4
 
 <p align="center">
     <img alt="Gif com gameplay da fase 4" src="./readme_assets/helltaker_fase_4.gif" >
 </p>
+
 
 ### Fase 5
 
